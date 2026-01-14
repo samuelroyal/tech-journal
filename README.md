@@ -1,2 +1,2 @@
 # tech-journal
-Tech journal for SEC-250
+Tech journal for NET-150
